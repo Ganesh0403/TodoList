@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "277953469034",
+    "firebase_url": "https://todolist-f0b55.firebaseio.com",
+    "project_id": "todolist-f0b55",
+    "storage_bucket": "todolist-f0b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277953469034:android:b52650901ded2cec4b0813",
+        "android_client_info": {
+          "package_name": "com.example.flutterappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277953469034-u6m0v89ppi04ol152rhj1gv7mu3eluuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVp-RRHAbf6jA2LGVd0Jf8Xz8UirbguHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277953469034-u6m0v89ppi04ol152rhj1gv7mu3eluuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277953469034:android:99653f2b556c51a14b0813",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277953469034-u6m0v89ppi04ol152rhj1gv7mu3eluuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVp-RRHAbf6jA2LGVd0Jf8Xz8UirbguHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277953469034-u6m0v89ppi04ol152rhj1gv7mu3eluuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
